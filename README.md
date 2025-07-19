@@ -22,7 +22,7 @@ So we provides a thorough comparison of various semantic segmentation techniques
 
   
 You can see the full version of reference through [paper](https://easychair.org/conferences2/submission_download?a=34672663&submission=7282567&upload=151756).  
-### How segmantic segmentation deals with those problems
+### How semantics segmentation deals with those problems
 <div align="justify">
   Timely identification and repair of potholes are crucial for preserving road infrastructure, maintaining smooth traffic flow, and minimizing vehicle damage.
 </div>
