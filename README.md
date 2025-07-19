@@ -92,5 +92,12 @@ You can see our detection score of compared semantic segmentation models on the 
 | Upernet      | 75.94        | 72.51    | 77.94     |
 | SwinUnet     | 97.41        | 97.19    | 98.57     |
 
+<!-- ![image](resources/pot.jpg) -->
+<div align="center">
+  <img src="./Resources/pot4.jfif" alt="Image 1" height="500" weight="600" style="margin-right: 10px;">
+</div>
 
+<p align="center">
+  Visualize some results
+</p>
 
