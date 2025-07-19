@@ -27,6 +27,70 @@ Deep Learning-Based Semantic Segmentation models can be classified into two main
 To obtain the results of all models on both datasets, we utilized Kaggle as the computing platform.  
 
 
-Notebooks use Pothole-Detection dataset:
+Notebooks use Pothole-Detection dataset (Those notebook may not have equal results compared to our reference because of different runs) :
+
+Unet: [Notebook]()  
+
+FPN: [Notebook]()  
+
+PSPNet: [Notebook]()  
+
+DeepLabV3+:[Notebook]()  
+
+DeepLabV3: [Notebook]()  
+
+Segformer: [Notebook]()  
+
+Mask2Former: [Notebook]()  
+
+Upernet: [Notebook]()  
+
+SwinUnet: [Notebook]()  
+You can see our detection score of compared semantic segmentation models on the Potholes-Detection dataset:
+| Method       | Accuracy (%) | mIoU (%) | Dice (%) |
+|--------------|--------------|----------|-----------|
+| Unet         | 87.46        | 82.00    | 89.54     |
+| FPN          | 87.76        | 81.90    | 89.47     |
+| PSPNet       | 85.45        | 79.90    | 88.08     |
+| DeepLabV3+   | 87.28        | 81.79    | 89.40     |
+| DeepLabV3    | 86.98        | 81.70    | 89.34     |
+| SegFormer    | 87.52        | 82.45    | 89.85     |
+| Mask2Former  | 88.33        | 83.06    | 90.26     |
+| Upernet      | 88.00        | 86.73    | 85.60     |
+| SwinUnet     | 86.44        | 87.15    | 96.89     |
+
+
+Notebooks use Pothole Mix Dataset (Those notebook may not have equal results compared to our reference because of different runs) :
+
+Unet: [Notebook]()  
+
+FPN: [Notebook]()  
+
+PSPNet: [Notebook]()  
+
+DeepLabV3+:[Notebook]()  
+
+DeepLabV3: [Notebook]()  
+
+Segformer: [Notebook]()  
+
+Mask2Former: [Notebook]()  
+
+Upernet: [Notebook]()  
+
+SwinUnet: [Notebook]()  
+You can see our detection score of compared semantic segmentation models on the Pothole Mix Dataset:
+| Method       | Accuracy (%) | mIoU (%) | Dice (%) |
+|--------------|--------------|----------|-----------|
+| Unet         | 82.35        | 78.46    | 86.43     |
+| FPN          | 82.17        | 77.81    | 85.92     |
+| PSPNet       | 78.43        | 74.10    | 82.78     |
+| DeepLabV3+   | 82.84        | 74.87    | 83.50     |
+| DeepLabV3    | 82.84        | 84.87    | 83.50     |
+| SegFormer    | 84.11        | 76.54    | 84.90     |
+| Mask2Former  | 83.40        | 77.52    | 85.69     |
+| Upernet      | 75.94        | 72.51    | 77.94     |
+| SwinUnet     | 97.41        | 97.19    | 98.57     |
+
 
 
