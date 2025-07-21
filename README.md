@@ -55,7 +55,7 @@ Notebooks use Pothole-Detection dataset (Those notebook may not have equal resul
 
 Unet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detection)  
 
-FPN: [Notebook]()  
+FPN: [Notebook](https://www.kaggle.com/code/giangtunhng/fpn-potholes-detetion)  
 
 PSPNet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detection)  
 
