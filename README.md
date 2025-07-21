@@ -53,7 +53,7 @@ To obtain the results of all models on both datasets, we utilized Kaggle as the 
 
 Notebooks use Pothole-Detection dataset (Those notebook may not have equal results compared to our reference because of different runs) :
 
-Unet: [Notebook]()  
+Unet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detection)  
 
 FPN: [Notebook]()  
 
