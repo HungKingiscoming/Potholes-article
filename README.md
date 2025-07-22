@@ -61,7 +61,7 @@ PSPNet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detecti
 
 DeepLabV3+:[Notebook]()  
 
-DeepLabV3: [Notebook]()  
+DeepLabV3: [Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholes-detection)  
 
 Segformer: [Notebook]()  
 
