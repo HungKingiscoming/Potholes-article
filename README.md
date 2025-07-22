@@ -63,13 +63,8 @@ DeepLabV3+:[Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholes
 
 DeepLabV3: [Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholes-detection)  
 
-Segformer: [Notebook]()  
-
-Mask2Former: [Notebook]()  
-
-Upernet: [Notebook]()  
-
-SwinUnet: [Notebook]()  
+Segformer: [Notebook](https://www.kaggle.com/code/giangtunhng/segformer-potholes-detection)  
+ 
 You can see our detection score of compared semantic segmentation models on the Potholes-Detection dataset:
 | Method       | Accuracy (%) | mIoU (%) | Dice (%) |
 |--------------|--------------|----------|-----------|
@@ -98,11 +93,6 @@ DeepLabV3: [Notebook]()
 
 Segformer: [Notebook]()  
 
-Mask2Former: [Notebook]()  
-
-Upernet: [Notebook]()  
-
-SwinUnet: [Notebook]()  
 You can see our detection score of compared semantic segmentation models on the Pothole Mix Dataset:
 | Method       | Accuracy (%) | mIoU (%) | Dice (%) |
 |--------------|--------------|----------|-----------|
