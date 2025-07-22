@@ -81,17 +81,18 @@ You can see our detection score of compared semantic segmentation models on the 
 
 Notebooks use Pothole Mix Dataset (Those notebook may not have equal results compared to our reference because of different runs) :
 
-Unet: [Notebook]()  
 
-FPN: [Notebook]()  
+Unet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detection)  
 
-PSPNet: [Notebook]()  
+FPN: [Notebook](https://www.kaggle.com/code/giangtunhng/fpn-potholes-detetion)  
 
-DeepLabV3+:[Notebook]()  
+PSPNet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detection)  
 
-DeepLabV3: [Notebook]()  
+DeepLabV3+:[Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholesdetection)  
 
-Segformer: [Notebook]()  
+DeepLabV3: [Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholes-detection)  
+
+Segformer: [Notebook](https://www.kaggle.com/code/giangtunhng/segformer-potholes-detection)
 
 You can see our detection score of compared semantic segmentation models on the Pothole Mix Dataset:
 | Method       | Accuracy (%) | mIoU (%) | Dice (%) |
