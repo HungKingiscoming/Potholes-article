@@ -59,7 +59,7 @@ FPN: [Notebook](https://www.kaggle.com/code/giangtunhng/fpn-potholes-detetion)
 
 PSPNet: [Notebook](https://www.kaggle.com/code/giangtunhng/unet-potholes-detection)  
 
-DeepLabV3+:[Notebook]()  
+DeepLabV3+:[Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholesdetection)  
 
 DeepLabV3: [Notebook](https://www.kaggle.com/code/giangtunhng/deeplabv3-potholes-detection)  
 
